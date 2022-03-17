@@ -2,13 +2,20 @@
 
 ### IUT Montpellier-Sète – Département Informatique
 
-* **Cours:** [M2103](http://cache.media.enseignementsup-recherche.gouv.fr/file/25/09/7/PPN_INFORMATIQUE_256097.pdf) - support [ici](https://gitlabinfo.iutmontp.univ-montp2.fr/dev-objets/Ressources)
-* **Enseignants:** [Marin Bougeret](mailto:marin.bougeret@umontpellier.fr), [Sébastien Gagné](mailto:sebastien.gagne@umontpellier.fr), [Sophie Nabitz](mailto:sophie.nabitz@univ-avignon.fr), [Jérôme Palaysi](mailto:jerome.palaysi@umontpellier.fr), [Victor Poupet](mailto:victor.poupet@umontpellier.fr), [Petru Valicov](mailto:petru.valicov@umontpellier.fr)
-* Le [forum Piazza](https://piazza.com/class/k52c8w685w3210) de ce cours pour poser vos questions
+* [**Support de cours**](https://gitlabinfo.iutmontp.univ-montp2.fr/dev-objets/Ressources)
+* **Enseignants:**
+  [Marin Bougeret](mailto:marin.bougeret@umontpellier.fr),
+  [Sophie Nabitz](mailto:sophie.nabitz@univ-avignon.fr),
+  [Cyrille Nadal](mailto:cyrille.nadal@umontpellier.fr),
+  [Victor Poupet](mailto:victor.poupet@umontpellier.fr),
+  [Gilles Trombettoni](mailto:gilles.trombettoni@umontpellier.fr),
+  [Petru Valicov](mailto:petru.valicov@umontpellier.fr)
+* Le [forum Piazza](https://piazza.com/class/kyo4oooauez252) de ce cours pour poser vos questions
 * [Email](mailto:petru.valicov@umontpellier.fr) pour une question d'ordre privée concernant le cours.
-* Le [sujet du TP](http://pageperso.lis-lab.fr/~petru.valicov/Cours/M2103/TP10.pdf) en format .pdf téléchargeable et imprimable.
+* Le [sujet du TP](https://www.lirmm.fr/~pvalicov/Cours/dev-objets/TP10.pdf) en format .pdf téléchargeable et imprimable.
 
-Avant de démarrer le TP, vérifiez que vous n'avez pas atteint votre quota d'espace de stockage autorisé :
+
+<!--Avant de démarrer le TP, vérifiez que vous n'avez pas atteint votre quota d'espace de stockage autorisé :
 
 * placez-vous dans votre `$HOME` et utilisez les commandes suivantes :
     * `du -sh` pour voir combien d'espace vous avez déjà utilisé
@@ -16,6 +23,7 @@ Avant de démarrer le TP, vérifiez que vous n'avez pas atteint votre quota d'es
     * `du -sch .[!.]* *` pour voir combien d'espace vous avez déjà utilisé pour chaque fichier, y compris les fichiers cachés
 * Supprimez les fichiers inutiles.
 * Pour éviter des problèmes durant vos TPs d'informatique, vous devriez toujours **garder 300-400 Mo d'espace libre**.
+-->
 
 
 ### Consignes
@@ -26,12 +34,8 @@ Avant de démarrer le TP, vérifiez que vous n'avez pas atteint votre quota d'es
 
 ## TP10 : _Collections, Généricité et Exceptions_
 
-Cliquez sur le lien ci-dessous pour faire votre fork privé du TP :
-
-https://classroom.github.com/a/n3kv8s22
-
-Date limite de rendu de votre code sur le dépôt GitHub : **Jeudi 7 mai à 18h00**
+Date limite de rendu de votre code sur le dépôt GitHub : **Dimanche 15 mai à 23h00**
 
 ### Exercice 0
 
-Lisez les consignes et trouvez le sujet.
+Lisez les consignes et trouvez le sujet (ce n'est pas un Easter egg...)

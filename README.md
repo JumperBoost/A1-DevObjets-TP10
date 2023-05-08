@@ -27,15 +27,14 @@
 
 
 ### Consignes
-- Avant d'écrire du code sur votre machine, faites chaque exercice sur une feuille de papier sans utiliser d'ordinateur. C'est un bon entraînement pour vérifier si vous comprenez bien les concepts et pour vous préparer pour un examen. Vous pouvez consulter vos notes de cours pendant ce temps.
+- Avant d'écrire du code sur votre machine, vous allez faire **chaque exercice sur une feuille de papier sans utiliser d'ordinateur**. C'est un bon entraı̂nement pour vérifier si vous comprenez bien les concepts et pour vous préparer pour l'examen. Vous pouvez consulter vos notes de cours pendant ce temps.
 - Le code de chaque exercice doit résider dans un package différent.
-- Pour les questions où des réponses en français ou des diagrammes de classes vous sont demandés, vous marquerez vos réponses dans un fichier **reponses.md** que vous déposerez à la racine de votre projet. Soyez précis et exhaustifs.
 
 
 ## TP10 : _Collections, Généricité et Exceptions_
 
-Date limite de rendu de votre code sur le dépôt GitHub : **Dimanche 15 mai à 23h00**
+Date limite de rendu de votre code sur le dépôt GitHub : **Dimanche 14 mai à 23h00**
 
 ### Exercice 0
 
-Lisez les consignes et trouvez le sujet (ce n'est pas un Easter egg...)
+Lisez les consignes et trouvez le sujet.

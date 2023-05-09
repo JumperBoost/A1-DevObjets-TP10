@@ -33,7 +33,7 @@
 
 ## TP10 : _Collections, Généricité et Exceptions_
 
-Date limite de rendu de votre code sur le dépôt GitHub : **Dimanche 14 mai à 23h00**
+Date limite de rendu de votre code sur le dépôt GitLab : **Dimanche 14 mai à 23h00**
 
 ### Exercice 0
 

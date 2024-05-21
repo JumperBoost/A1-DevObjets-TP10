@@ -22,7 +22,7 @@ public class FilePriorite {
         return index;
     }
 
-    public PersonnePriorisee enlever() {
+    public PersonnePriorisee enlever() throws ArrayIndexOutOfBoundsException {
         if(liste.isEmpty())
             throw new ArrayIndexOutOfBoundsException("La liste est vide");
         return liste.remove(selectionnerSelonOrdre());

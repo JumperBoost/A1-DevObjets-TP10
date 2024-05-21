@@ -11,7 +11,7 @@ public class SalleAttente {
         file.ajouter(new PersonnePriorisee(p, priorite));
     }
 
-    public Personne sortir() {
+    public Personne sortir() throws ArrayIndexOutOfBoundsException {
         return file.enlever().getPersonne();
     }
 }

@@ -1,0 +1,17 @@
+package fr.umontpellier.iut.exercice1;
+
+public class SalleAttente {
+    private final FilePriorite file;
+
+    public SalleAttente() {
+        file = new FilePriorite();
+    }
+
+    public void entrer(Personne p, int priorite) {
+        file.ajouter(new PersonnePriorisee(p, priorite));
+    }
+
+    public Personne sortir() {
+        return file.enlever().getPersonne();
+    }
+}

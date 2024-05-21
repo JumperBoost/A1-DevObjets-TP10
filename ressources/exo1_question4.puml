@@ -1,0 +1,31 @@
+@startuml
+
+left to right direction
+skinparam linetype ortho
+
+class Personne {
+    - nom: String
+}
+
+class PersonnePriorisee {
+    - priorite: int
+    + getPersonne(): Personne
+    + getPriorite(): int
+}
+
+class FilePriorisee {
+    + ajouter(): void
+    - selectionnerSelonOrdre() : int
+    + enlever(): PersonnePriorisee
+}
+
+class SalleAttente {
+    + entrer(Personne, int): void
+    + sortir(): Personne
+}
+
+PersonnePriorisee "personne\r1" o---> Personne
+FilePriorisee "liste\l0..*" --> PersonnePriorisee
+SalleAttente "file\l1" o--> FilePriorisee
+
+@enduml

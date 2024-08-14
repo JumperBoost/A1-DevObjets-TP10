@@ -1,4 +1,6 @@
-# ![](ressources/logo.jpeg) Développement Orienté Objets 
+# ![](ressources/logo.jpeg)
+
+# Développement Orienté Objets 
 
 ### IUT Montpellier-Sète – Département Informatique
 

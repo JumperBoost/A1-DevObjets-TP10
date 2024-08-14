@@ -28,4 +28,4 @@ Date limite de rendu de votre code sur le dépôt GitLab : **Dimanche 2 juin à 
 
 ### Exercice 0
 
-Lisez les consignes et trouvez le sujet.
+Lisez les consignes et trouvez le [sujet](ressources/TP10.pdf).
